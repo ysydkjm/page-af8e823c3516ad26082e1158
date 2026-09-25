@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.hlzia.cn/sitemap.xml
